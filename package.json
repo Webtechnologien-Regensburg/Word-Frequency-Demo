@@ -1,0 +1,16 @@
+{
+  "name": "word-freq-test",
+  "version": "1.0.0",
+  "description": "A simple demo for the word-freq library\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "demo": "node index.js https://shakespeare.folger.edu/downloads/txt/henry-v_TXT_FolgerShakespeare.txt"
+  },
+  "type": "module",
+  "author": "Alexander Bazo <alexanderbazo@googlemail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "word-freq": "0.0.8"
+  }
+}
