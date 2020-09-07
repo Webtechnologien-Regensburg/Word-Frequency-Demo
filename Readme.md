@@ -13,4 +13,4 @@ Diese Demo zeigt Ihnen, wie Sie die [`word-freq`-Bibliothek](https://github.com/
 - In der Demo lädt das Programm den Text des Shakespear-Dramas *Henry V* aus dem [Fogler-Online-Korpus](https://www.folger.edu/) herunter und erstellt eine Ausgabedatei mit der errechneten Wortfrequenz. 
 - Sie können das Programm mit beliebigen anderen, online verfügbaren Texten, ausprobieren, in dem Sie es mit dem Befehl `node index.js URL` starten. Ersetzen Sie dabei `URL` durch die entsprechende URL zur Textdatei.
 
-** Weitere Hinweise finden Sie als Kommentar im Code.**
+**Weitere Hinweise finden Sie als Kommentar im Code.**
